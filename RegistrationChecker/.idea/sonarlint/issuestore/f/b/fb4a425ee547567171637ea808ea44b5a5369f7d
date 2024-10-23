@@ -1,0 +1,13 @@
+
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Ó®ËÀøÿÿÿÿ8Çòåî.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ßÀí¬úÿÿÿÿ8Çòåî.
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(èä©¡8„ÅÍî.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¼’ÂÕüÿÿÿÿ8ê•ïèî.
+n
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(åÔ‡ıùÿÿÿÿ8ÿ€ğŞî.
+n
+java:S20954"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(åÔ‡ıùÿÿÿÿ8şÓ×èî.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8şÓ×èî.
+n
+java:S2677>"LUse or store the value returned from "readLine" instead of throwing it away.(ûöáãüÿÿÿÿ8§´÷éî.

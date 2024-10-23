@@ -1,0 +1,50 @@
+
+Q
+java:S1481B"/Remove this unused "parqMethod" local variable.(à¡§Þýÿÿÿÿ8å­±àî.
+Q
+java:S1481G"/Remove this unused "testMethod" local variable.(²Èèùÿÿÿÿ8å­±àî.
+J	java:S108O")Either remove or fill this block of code.(’ŽÜåøÿÿÿÿ8å­±àî.
+`
+java:S1854X">Remove this useless assignment to local variable "parqMethod".(à¡§Þýÿÿÿÿ8å­±àî.
+Q
+java:S1481"/Remove this unused "testMethod" local variable.(²Èèùÿÿÿÿ8å­±àî.
+ž
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨ ‚Ñ8å­±àî.
+Q
+java:S1481X"/Remove this unused "parqMethod" local variable.(à¡§Þýÿÿÿÿ8å­±àî.
+f
+java:S1192 "IDefine a constant instead of duplicating this literal "HH:mm:ss" 4 times.(»Ö©À8å­±àî.
+£
+java:S1186;"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÇÇ—ýýÿÿÿÿ8å­±àî.
+`
+java:S1854">Remove this useless assignment to local variable "testMethod".(²Èèùÿÿÿÿ8å­±àî.
+Q
+java:S1481]"/Remove this unused "testMethod" local variable.(²Èèùÿÿÿÿ8å­±àî.
+
+java:S1149!"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¶±„Üýÿÿÿÿ8å­±àî.
+
+java:S1149K"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¶±„Üýÿÿÿÿ8å­±àî.
+`
+java:S1854G">Remove this useless assignment to local variable "testMethod".(²Èèùÿÿÿÿ8å­±àî.
+`
+java:S1854]">Remove this useless assignment to local variable "testMethod".(²Èèùÿÿÿÿ8å­±àî.
+K
+java:S1144i"/Remove this unused private "compileLog" method.(ÓÕù,8å­±àî.
+`
+java:S2259."CA "NullPointerException" could be thrown; "array" is nullable here.(¹ÈÙ€8å­±àî.
+J	java:S108d")Either remove or fill this block of code.(’ŽÜåøÿÿÿÿ8å­±àî.
+K
+java:S2786m")Remove this redundant "static" qualifier.(äÇ¤Ýøÿÿÿÿ8å­±àî.
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(ÄÅøÉ8å­±àî.
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(ÄÅøÉ8å­±àî.
+:
+java:S1118"Hide this public constructor.(¨ ‚Ñ8å­±àî.
+J	java:S1086")Either remove or fill this block of code.(ŸöÑ—ùÿÿÿÿ8å­±àî.
+L
+java:S3740"/Provide the parametrized type for this generic.(éÆ¦Ë8å­±àî.
+
+java:S1149a"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¶±„Üýÿÿÿÿ8å­±àî.
+F
+java:S2786~")Remove this redundant "static" qualifier.(’º’Š8å­±àî.
+`
+java:S1854B">Remove this useless assignment to local variable "parqMethod".(à¡§Þýÿÿÿÿ8å­±àî.

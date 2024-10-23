@@ -1,0 +1,319 @@
+
+X
+java:S1068,"6Remove this unused "ELEMENT_POLL_LIMIT" private field.(ÑÜ¬´şÿÿÿÿ8‚Ò‰âî.
+V
+java:S3878É"8Remove this array creation and simply pass the elements.(ÀÿÅ8‚ëäî.
+[
+java:S3878¬"8Remove this array creation and simply pass the elements.(¡Ï°Úüÿÿÿÿ8‚ëäî.
+H
+java:S5411ş"*Use the primitive boolean expression here.(Àæè¼8‚ëäî.
+[
+java:S3878®"8Remove this array creation and simply pass the elements.(ş«ùıÿÿÿÿ8‚ëäî.
+H
+java:S5411ù"*Use the primitive boolean expression here.(Àæè¼8‚ëäî.
+[
+java:S3878µ"8Remove this array creation and simply pass the elements.(Ï»×Ñüÿÿÿÿ8‚ëäî.
+U
+java:S3878‹"8Remove this array creation and simply pass the elements.(‘£ªo8‚ëäî.
+V	java:S106Ê"9Replace this use of System.out or System.err by a logger.(òÎêÁ8‚ëäî.
+[
+java:S3878ê"8Remove this array creation and simply pass the elements.(ñØğøıÿÿÿÿ8‚ëäî.
+h	java:S112ƒ"FDefine and throw a dedicated exception instead of using a generic one.(Ê—²áûÿÿÿÿ8‚ëäî.
+H
+java:S5411€"*Use the primitive boolean expression here.(Àæè¼8‚ëäî.
+Q
+java:S1068"/Remove this unused "webElements" private field.(‘Õó¯úÿÿÿÿ8Û ƒáî.
+[
+java:S3878Â"8Remove this array creation and simply pass the elements.(„¤“¿ÿÿÿÿÿ8´ ıâî.
+{
+java:S4144î"XUpdate this method so that its implementation is not identical to "refresh" on line 163.(¹¢±öøÿÿÿÿ8‚ëäî.
+[
+java:S3878š"8Remove this array creation and simply pass the elements.(û¢Â«úÿÿÿÿ8´ ıâî.
+[
+java:S3878Ô"8Remove this array creation and simply pass the elements.(ïØç”ûÿÿÿÿ8ÿÒòçî.
+[	java:S106Í"9Replace this use of System.out or System.err by a logger.(ìÍÔ‘ÿÿÿÿÿ8›àî.
+V	java:S106Î"9Replace this use of System.out or System.err by a logger.(ñ»8›àî.
+
+java:S1130ƒ"lRemove the declaration of thrown exception 'main.java.Utilities.ParqException' which is a runtime exception.(Òü•ûÿÿÿÿ8‚ëäî.
+H
+java:S5411´"*Use the primitive boolean expression here.(Àæè¼8‚ëäî.
+K
+java:S1905å"-Remove this unnecessary cast to "WebElement".(±í¢Š8‚ëäî.
+L
+java:S3740"/Provide the parametrized type for this generic.(Äæşû8ÕÄÁàî.
+F	java:S108ı")Either remove or fill this block of code.(Àæè¼8‚ëäî.
+R
+java:S1068%"0Remove this unused "probeTimeout" private field.(‡¡¼ÿÿÿÿÿ8ïµ—áî.
+H
+java:S5411—"*Use the primitive boolean expression here.(Àæè¼8‚ëäî.
+U	java:S106Ù"9Replace this use of System.out or System.err by a logger.(è™A8ş–ïàî.
+i
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(÷šÊåúÿÿÿÿ8‚ëäî.
+h	java:S112é"FDefine and throw a dedicated exception instead of using a generic one.(Æ å¬øÿÿÿÿ8‚ëäî.
+Q
+java:S3740"/Provide the parametrized type for this generic.(‘Õó¯úÿÿÿÿ8ÕÄÁàî.
+h	java:S112…"FDefine and throw a dedicated exception instead of using a generic one.(èôåÀıÿÿÿÿ8‚ëäî.
+h	java:S112¸"FDefine and throw a dedicated exception instead of using a generic one.(ëá–´ùÿÿÿÿ8‚ëäî.
+c	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ó»‹‡8‚ëäî.
+F	java:S108¤")Either remove or fill this block of code.(Àæè¼8ş–ïàî.
+[
+java:S3878î"8Remove this array creation and simply pass the elements.(É™–ùÿÿÿÿ8‚ëäî.
+H
+java:S5411Ë"*Use the primitive boolean expression here.(Àæè¼8‚ëäî.
+H
+java:S5411Á"*Use the primitive boolean expression here.(Àæè¼8ş–ïàî.
+Z
+java:S3878c"8Remove this array creation and simply pass the elements.(Ôšñÿÿÿÿÿ8Ôâ‚ãî.
+Q
+java:S3740 "/Provide the parametrized type for this generic.(‚²Ğàüÿÿÿÿ8ÕÄÁàî.
+H
+java:S5411ö"*Use the primitive boolean expression here.(Àæè¼8‚ëäî.
+H
+java:S5411‹"*Use the primitive boolean expression here.(Àæè¼8‚ëäî.
+V
+java:S3878Š"8Remove this array creation and simply pass the elements.(°Ûü8‚ëäî.
+[
+java:S3878½"8Remove this array creation and simply pass the elements.(”Ì£øøÿÿÿÿ8‚ëäî.
+h	java:S112™"FDefine and throw a dedicated exception instead of using a generic one.(°Ç€úÿÿÿÿ8‚ëäî.
+[	java:S106ç"9Replace this use of System.out or System.err by a logger.(šÿÎôùÿÿÿÿ8‚ëäî.
+[
+java:S3878º"8Remove this array creation and simply pass the elements.(Øãøíıÿÿÿÿ8´ ıâî.
+H
+java:S5411ı"*Use the primitive boolean expression here.(Àæè¼8‚ëäî.
+[
+java:S3878’"8Remove this array creation and simply pass the elements.(á¡‘Íùÿÿÿÿ8ş–ïàî.
+U
+java:S3878’"8Remove this array creation and simply pass the elements.(ŒóèW8‚ëäî.
+[
+java:S3878—"8Remove this array creation and simply pass the elements.(‰±ÿÿÿÿÿ8‚ëäî.
+ 
+java:S1192–"}Define a constant instead of duplicating this literal "The element does not contain expected attribute. Expected [ " 5 times.(ñËùÆúÿÿÿÿ8‚ëäî.
+Y
+java:S1068-"7Remove this unused "ELEMENT_PROBE_LIMIT" private field.(Ü³ÁŠıÿÿÿÿ8ÕÄÁàî.
+Y	java:S125”"<This block of commented-out lines of code should be removed.(û“ô˜8çÙòàî.
+U
+java:S3878"8Remove this array creation and simply pass the elements.(Ù˜â8‚ëäî.
+R
+java:S3740¶"/Provide the parametrized type for this generic.(Î“É©üÿÿÿÿ8‚ëäî.
+h	java:S112³"FDefine and throw a dedicated exception instead of using a generic one.(³ÚÈıÿÿÿÿ8‚ëäî.
+c	java:S112°"FDefine and throw a dedicated exception instead of using a generic one.(¤È€«8‚ëäî.
+[
+java:S3878¤"8Remove this array creation and simply pass the elements.(œµ°ôıÿÿÿÿ8‚ëäî.
+H
+java:S1172ƒ"*Remove this unused method parameter "key".(ŸÆıö8‚ëäî.
+U
+java:S1068("3Remove this unused "collectAttempts" private field.(î‘şÿÿÿÿ8úµùàî.
+u
+java:S4144ü"XUpdate this method so that its implementation is not identical to "refresh" on line 163.(òŞº8‚ëäî.
+F
+java:S1148Ÿ"#Use a logger to log this exception.(Ä»ş£ùÿÿÿÿ8‚ëäî.
+r
+java:S1192Ÿ"ODefine a constant instead of duplicating this literal " ], Actual [ " 12 times.(“é£œùÿÿÿÿ8‚ëäî.
+G
+java:S54114"*Use the primitive boolean expression here.(Àæè¼8ÕÄÁàî.
+H
+java:S5411ï"*Use the primitive boolean expression here.(Àæè¼8‚ëäî.
+V	java:S106Ï"9Replace this use of System.out or System.err by a logger.(ÃìÊœ8›àî.
+L
+java:S3740U"/Provide the parametrized type for this generic.(­‘ë†8Ôâ‚ãî.
+U	java:S106Ì"9Replace this use of System.out or System.err by a logger.(Ë›È8‚ëäî.
+L
+java:S3740:"/Provide the parametrized type for this generic.(ä¤ÖŞ8Ôâ‚ãî.
+V	java:S106Ó"9Replace this use of System.out or System.err by a logger.(Âôí8›àî.
+[
+java:S3878…"8Remove this array creation and simply pass the elements.(•¬şşÿÿÿÿ8‚ëäî.
+H
+java:S5411š"*Use the primitive boolean expression here.(Àæè¼8‚ëäî.
+Z
+java:S3878D"8Remove this array creation and simply pass the elements.(Ôšñÿÿÿÿÿ8Ôâ‚ãî.
+[	java:S106Ô"9Replace this use of System.out or System.err by a logger.(”’Ë—úÿÿÿÿ8›àî.
+F	java:S108„")Either remove or fill this block of code.(Àæè¼8‚ëäî.
+V
+java:S1068+"9Remove this unused "ELEMENT_POLL_FREQENCY" private field.(íë÷ï8úµùàî.
+V
+java:S3878‰"8Remove this array creation and simply pass the elements.(İôÁÙ8‚ëäî.
+
+java:S1186/"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–ı’é8ÕÄÁàî.
+H
+java:S5411Ş"*Use the primitive boolean expression here.(Àæè¼8‚ëäî.
+F	java:S108ö")Either remove or fill this block of code.(Àæè¼8‚ëäî.
+V
+java:S3878¸"8Remove this array creation and simply pass the elements.(üº‰ô8´ ıâî.
+T
+java:S1068'"2Remove this unused "collectTimeout" private field.(É‚£æşÿÿÿÿ8úµùàî.
+c	java:S112¹"FDefine and throw a dedicated exception instead of using a generic one.(Î˜Ë8‚ëäî.
+ˆ
+java:S11303"lRemove the declaration of thrown exception 'main.java.Utilities.ParqException' which is a runtime exception.(ïÑór8«ã½ãî.
+U
+java:S3878ú"8Remove this array creation and simply pass the elements.(²ãù88‚ëäî.
+V
+java:S1144²"3Remove this unused private "readProperties" method.(­¬æØûÿÿÿÿ8‚ëäî.
+[
+java:S3878"8Remove this array creation and simply pass the elements.(¾ Åòøÿÿÿÿ8‚ëäî.
+b
+java:S1854œ"?Remove this useless assignment to local variable "elementText".(î»ˆ‡üÿÿÿÿ8‚ëäî.
+[
+java:S3878¾"8Remove this array creation and simply pass the elements.(Œ¦¾‘ıÿÿÿÿ8‚ëäî.
+H
+java:S5411¦"*Use the primitive boolean expression here.(Àæè¼8‚ëäî.
+h	java:S112°"FDefine and throw a dedicated exception instead of using a generic one.(Ì»¢¡úÿÿÿÿ8‚ëäî.
+S
+java:S1481œ"0Remove this unused "elementText" local variable.(î»ˆ‡üÿÿÿÿ8‚ëäî.
+V	java:S106×"9Replace this use of System.out or System.err by a logger.(¿êÃ8›àî.
+[
+java:S3878•"8Remove this array creation and simply pass the elements.(âªÑ¥ûÿÿÿÿ8‚ëäî.
+z	java:S1359"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8Ôâ‚ãî.
+h	java:S112æ"FDefine and throw a dedicated exception instead of using a generic one.(¹ÒôÕúÿÿÿÿ8‚ëäî.
+V	java:S106Õ"9Replace this use of System.out or System.err by a logger.(şŞÛé8›àî.
+H
+java:S5411Û"*Use the primitive boolean expression here.(Àæè¼8‚ëäî.
+f
+java:S1128"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó8²™òêî.
+[
+java:S3878ÿ"8Remove this array creation and simply pass the elements.(éğÙóùÿÿÿÿ8‚ëäî.
+V
+java:S3878˜"8Remove this array creation and simply pass the elements.(é›ûÄ8‚ëäî.
+t
+java:S4144ƒ"VUpdate this method so that its implementation is not identical to "hoard" on line 501.(ŸÆıö8‚ëäî.
+[	java:S106Ò"9Replace this use of System.out or System.err by a logger.(™Ì„ˆøÿÿÿÿ8›àî.
+V
+java:S3878ğ"8Remove this array creation and simply pass the elements.(°Ûü8‚ëäî.
+V
+java:S3878›"8Remove this array creation and simply pass the elements.(é˜óğ8‚ëäî.
+}
+java:S1450"`Remove the "htmlSelectElement" field and declare it as a local variable in the relevant methods.(•ç´Ô8ïµ—áî.
+H
+java:S5411ç"*Use the primitive boolean expression here.(Àæè¼8‚ëäî.
+}
+java:S3008+"`Rename this field "ELEMENT_POLL_FREQENCY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íë÷ï8›àî.
+Y	java:S125›"<This block of commented-out lines of code should be removed.(“Ï8‰³óàî.
+V
+java:S3878ˆ"8Remove this array creation and simply pass the elements.(îüÛµ8‚ëäî.
+U
+java:S3878s"8Remove this array creation and simply pass the elements.(ƒä¥Ğ8´ ıâî.
+L
+java:S2786€")Remove this redundant "static" qualifier.(úë—Íøÿÿÿÿ8‚ëäî.
+H
+java:S5411ä"*Use the primitive boolean expression here.(Àæè¼8‚ëäî.
+:
+java:S1118/"Hide this public constructor.(–ı’é8ó¤áî.
+M
+java:S1172õ"*Remove this unused method parameter "key".(®öÊÉıÿÿÿÿ8‚ëäî.
+h	java:S112ë"FDefine and throw a dedicated exception instead of using a generic one.(êù€Æşÿÿÿÿ8‚ëäî.
+‰
+java:S1130Î"lRemove the declaration of thrown exception 'main.java.Utilities.ParqException' which is a runtime exception.(Éìï58ÿÒòçî.
+H
+java:S5411„"*Use the primitive boolean expression here.(Àæè¼8‚ëäî.
+X
+java:S1133Û"5Do not forget to remove this deprecated code someday.(ªôØÿÿÿÿÿ8‚ëäî.
+[
+java:S3878‚"8Remove this array creation and simply pass the elements.(Ó»š‰şÿÿÿÿ8´ ıâî.
+|
+java:S1450""ZRemove the "lastFocusBy" field and declare it as a local variable in the relevant methods.(‰ñÂ¶ıÿÿÿÿ8úµùàî.
+[	java:S106Ö"9Replace this use of System.out or System.err by a logger.(¾¾Ø¸ûÿÿÿÿ8›àî.
+[
+java:S3878å"8Remove this array creation and simply pass the elements.(ñ—»ˆúÿÿÿÿ8‚ëäî.
+z	java:S135W"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8Ôâ‚ãî.
+N
+java:S1068!"1Remove this unused "lastCollectBy" private field.(…·Ò°8úµùàî.
+{
+java:S4144¥"XUpdate this method so that its implementation is not identical to "refresh" on line 163.(ƒşÚøÿÿÿÿ8‚ëäî.
+Q
+java:S3740"/Provide the parametrized type for this generic.(¢ì½çûÿÿÿÿ8›àî.
+V
+java:S3878Ğ"8Remove this array creation and simply pass the elements.(ÎĞÁ«8ÿÒòçî.
+h	java:S112ÿ"FDefine and throw a dedicated exception instead of using a generic one.(—îçÏøÿÿÿÿ8‚ëäî.
+[
+java:S3878›"8Remove this array creation and simply pass the elements.(Ş’ ƒøÿÿÿÿ8‚ëäî.
+H
+java:S5411Ï"*Use the primitive boolean expression here.(Àæè¼8ÿÒòçî.
+V	java:S106Ø"9Replace this use of System.out or System.err by a logger.(ã…É8ş–ïàî.
+H
+java:S5411é"*Use the primitive boolean expression here.(Àæè¼8‚ëäî.
+V
+java:S3878Œ"8Remove this array creation and simply pass the elements.(‡ëÎı8‚ëäî.
+[
+java:S3878Å"8Remove this array creation and simply pass the elements.(Øãøíıÿÿÿÿ8´ ıâî.
+[
+java:S3878ñ"8Remove this array creation and simply pass the elements.(¢ù€Ÿıÿÿÿÿ8‚ëäî.
+V
+java:S3878œ"8Remove this array creation and simply pass the elements.(‘±¿ˆ8‚ëäî.
+H
+java:S5411¤"*Use the primitive boolean expression here.(Àæè¼8ş–ïàî.
+s
+java:S1192‚"PDefine a constant instead of duplicating this literal "Current Element" 3 times.(Ó»š‰şÿÿÿÿ8ş–ïàî.
+H
+java:S5411«"*Use the primitive boolean expression here.(Àæè¼8ş–ïàî.
+H
+java:S5411‘"*Use the primitive boolean expression here.(Àæè¼8‚ëäî.
+L
+java:S1144".Remove this unused private "attribute" method.(ó»‹‡8‚ëäî.
+[
+java:S3878á"8Remove this array creation and simply pass the elements.(ÑªÖ´øÿÿÿÿ8‚ëäî.
+G
+java:S2786")Remove this redundant "static" qualifier.(ı£÷ô8‚ëäî.
+V
+java:S3878ß"8Remove this array creation and simply pass the elements.(Ù‹é­8‚ëäî.
+c	java:S112ã"FDefine and throw a dedicated exception instead of using a generic one.(¢éâÌ8‚ëäî.
+F	java:S108¦")Either remove or fill this block of code.(Àæè¼8‚ëäî.
+F	java:S108ï")Either remove or fill this block of code.(Àæè¼8‚ëäî.
+p
+java:S1128"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ8²™òêî.
+€
+java:S3008-"^Rename this field "ELEMENT_PROBE_LIMIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü³ÁŠıÿÿÿÿ8ÕÄÁàî.
+V	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(¦çÛ¡8›àî.
+N
+java:S1068&"1Remove this unused "expectTimeout" private field.(ã²Î°8‹‰‰âî.
+M
+java:S3740³"/Provide the parametrized type for this generic.(ß£“§8‚ëäî.
+H
+java:S5411ã"*Use the primitive boolean expression here.(Àæè¼8‚ëäî.
+V
+java:S3878ü"8Remove this array creation and simply pass the elements.(İôÁÙ8‚ëäî.
+h	java:S112–"FDefine and throw a dedicated exception instead of using a generic one.(ñËùÆúÿÿÿÿ8‚ëäî.
+h	java:S112Ÿ"FDefine and throw a dedicated exception instead of using a generic one.(“é£œùÿÿÿÿ8‚ëäî.
+H
+java:S5411„"*Use the primitive boolean expression here.(Àæè¼8‚ëäî.
+n
+java:S37763"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(ïÑór8ÕÄÁàî.
+p
+java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(™ŸÄ­8ş–ïàî.
+[
+java:S3878"8Remove this array creation and simply pass the elements.(³Ëù úÿÿÿÿ8‚ëäî.
+S
+java:S1133ã"5Do not forget to remove this deprecated code someday.(®¥ñ¥8‚ëäî.
+U
+java:S3878"8Remove this array creation and simply pass the elements.(üœ…/8´ ıâî.
+
+java:S3008,"]Rename this field "ELEMENT_POLL_LIMIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÜ¬´şÿÿÿÿ8›àî.
+H
+java:S5411"*Use the primitive boolean expression here.(Àæè¼8ş–ïàî.
+R
+java:S1068"5Remove this unused "htmlSelectElement" private field.(•ç´Ô8úµùàî.
+Q
+java:S1068""/Remove this unused "lastFocusBy" private field.(‰ñÂ¶ıÿÿÿÿ8úµùàî.
+H
+java:S5411Ó"*Use the primitive boolean expression here.(Àæè¼8‚ëäî.
+V
+java:S3878è"8Remove this array creation and simply pass the elements.(—è¸Á8‚ëäî.
+[
+java:S3878Ä"8Remove this array creation and simply pass the elements.(½›øøÿÿÿÿ8ş–ïàî.
+h	java:S112ı"FDefine and throw a dedicated exception instead of using a generic one.(£ÔÄüÿÿÿÿ8‚ëäî.
+h	java:S112ª"FDefine and throw a dedicated exception instead of using a generic one.(¤˜ŞÏùÿÿÿÿ8‚ëäî.
+H
+java:S5411·"*Use the primitive boolean expression here.(Àæè¼8ş–ïàî.
+X
+java:S1068)"6Remove this unused "currentElementText" private field.(¤áâ÷úÿÿÿÿ8Û ƒáî.
+Š
+java:S1130–"lRemove the declaration of thrown exception 'main.java.Utilities.ParqException' which is a runtime exception.(É§Ü¯8‚ëäî.
+H
+java:S5411«"*Use the primitive boolean expression here.(Àæè¼8‚ëäî.
+Z
+java:S38787"8Remove this array creation and simply pass the elements.(•¬şşÿÿÿÿ8Ôâ‚ãî.
+U
+java:S3878¹"8Remove this array creation and simply pass the elements.(˜ªÎ+8ş–ïàî.
+V	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(íÍò8›àî.
+8
+java:S3878¹"Remove this array creation.(¤´å/8‚ëäî.
+Š
+java:S1130è"lRemove the declaration of thrown exception 'main.java.Utilities.ParqException' which is a runtime exception.(Ó¥±8‚ëäî.

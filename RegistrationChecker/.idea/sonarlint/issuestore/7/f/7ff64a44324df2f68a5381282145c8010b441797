@@ -1,0 +1,11 @@
+
+U	java:S106["9Replace this use of System.out or System.err by a logger.(§Ò¦õ8«ë´àî.
+U	java:S106Y"9Replace this use of System.out or System.err by a logger.(ãªÎñ8«ë´àî.
+W
+java:S1161S":Add the "@Override" annotation above this method signature(Á»›ê8«ë´àî.
+U	java:S106Z"9Replace this use of System.out or System.err by a logger.(›‡Û8«ë´àî.
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(˜Œ‚Ÿøÿÿÿÿ8«ë´àî.
+U	java:S106X"9Replace this use of System.out or System.err by a logger.(Ë® Ø8«ë´àî.
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(›‡Û8«ë´àî.
+i
+java:S1192Y"LDefine a constant instead of duplicating this literal "Hello World" 5 times.(ãªÎñ8«ë´àî.

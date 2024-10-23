@@ -1,0 +1,17 @@
+
+h
+java:S1192J"FDefine a constant instead of duplicating this literal "White" 4 times.(¿ùëÊùÿÿÿÿ8şÚ«èî.
+l
+java:S1192"ODefine a constant instead of duplicating this literal "Free Car Check" 5 times.(Ì Øá8ˆ‚üçî.
+d
+java:S1192)"HDefine a constant instead of duplicating this literal "car.url" 3 times.(¸üÔ^8Áƒıèî.
+W
+java:S1128":Remove this unused import 'org.openqa.selenium.WebDriver'.(ñšÿÀ8Ñã…äî.
+j
+java:S1192#"HDefine a constant instead of duplicating this literal "320D Se" 4 times.(¬‚èûÿÿÿÿ8ˆ‚üçî.
+P
+java:S1128"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠŞ›8—•ãî.
+`
+java:S1128	"DRemove this unused import 'org.openqa.selenium.chrome.ChromeDriver'.(†È8—úğãî.
+c
+java:S1192$"FDefine a constant instead of duplicating this literal "Black" 4 times.(ª™ˆ¤8ˆ‚üçî.
